@@ -1,4 +1,4 @@
-# 🏦 FinInsight Group – Power BI Banking Dashboard
+# 🏦 FinInsight Banking Intelligence Dashboard (Power BI)
 
 This Power BI project explores and visualizes transactional and customer-level financial data for FinInsight Group. It aims to support strategic decision-making across **customer management**, **credit risk assessment**, and **loan optimization** through a rich and interactive dashboard experience.
 
